@@ -1,4 +1,4 @@
-#  Research Analyst
+#  AI Research Assistant
 
 An AI-powered **multi-agent research assistant** that automatically searches scientific literature, extracts key findings, identifies research gaps, and generates structured research summaries.
 
